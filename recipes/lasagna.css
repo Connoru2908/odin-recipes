@@ -2,3 +2,10 @@ body {
   background-color: rgb(24, 24, 24);
   color: rgb(252, 252, 252);
 }
+
+.wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
