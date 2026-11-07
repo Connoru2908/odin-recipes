@@ -27,3 +27,7 @@ body {
 .recipe-image:hover {
   transform: scale(1.01);
 }
+
+.description {
+  font-weight: 600;
+}
