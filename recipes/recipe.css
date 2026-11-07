@@ -43,3 +43,18 @@ body {
   margin-right: 16px;
   font-size: 24px;
 }
+
+.steps {
+  font-size: 36px;
+  font-weight: 600;
+}
+
+.step-list {
+  text-align: left;
+  padding: 0px 512px;
+  font-size: 24px;
+}
+
+.each-step {
+  margin-bottom: 24px;
+}
